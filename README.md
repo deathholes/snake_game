@@ -1,0 +1,1 @@
+This is the popular Snake Game written in Qt. This is only made for learning GUI programming in Qt.
